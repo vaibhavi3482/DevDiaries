@@ -1,0 +1,47 @@
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+//Lawliet lietlaw961@gmail.com
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyDo6GNMIOxAJA8I1EibEzMrCwTmSH1yuLA",
+  apiKey: process.env.REACT_APP_API_KEY,
+  authDomain: "devblog-7683a.firebaseapp.com",
+  projectId: "devblog-7683a",
+  storageBucket: "devblog-7683a.appspot.com",
+  messagingSenderId: "200791553786",
+  appId: "1:200791553786:web:047a51d784334bd98b7b43"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
+
+
+// Kiddo variables
+
+const firebaseConfig = {
+  apikey: "AIzaSyCvgMjA6SfHATI7qqe5Ei3HmBYvydBWjq0",
+  apiKey: process.env.REACT_APP_API_KEY,
+  authDomain: "blogproject-824d5.firebaseapp.com",
+  projectId: "blogproject-824d5",
+  storageBucket: "blogproject-824d5.appspot.com",
+  messagingSenderId: "430366510909",
+  appId: "1:430366510909:web:3b72b6edb9b5b3b002ff54"
+};
+
+
+
+
+// Light ly784610@gmail.com
+const firebaseConfig = {
+  apiKey: "AIzaSyDbAAz9Hqvb4J6he6X7fAXMrd60D2v2Ybs",
+  authDomain: "devblog-a3213.firebaseapp.com",
+  projectId: "devblog-a3213",
+  storageBucket: "devblog-a3213.appspot.com",
+  messagingSenderId: "318532541103",
+  appId: "1:318532541103:web:58d20eff016eeba0b2925a"
+};
